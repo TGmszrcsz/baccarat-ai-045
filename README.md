@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：效果验证
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 044 篇 - 百家乐Ai预测分析工具：识别输入中的未来信息泄漏](https://github.com/TGmszrcsz/baccarat-ai-044) ｜ [下一篇：第 046 篇 - 百家乐Ai预测分析工具：多次尝试后挑最好结果有什么偏差](https://github.com/TGmszrcsz/baccarat-ai-046)
+
+<!-- article-chain:end -->
+
 两个版本都显示较高命中率，但观察数量差别很大。本篇围绕“展示命中率时同时报告样本数量”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
